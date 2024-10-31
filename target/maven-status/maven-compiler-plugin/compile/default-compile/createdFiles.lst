@@ -1,0 +1,11 @@
+tolobekov\library\database\DataManager.class
+tolobekov\library\model\Book.class
+tolobekov\library\util\LibraryController.class
+tolobekov\library\ui\LoginScreen.class
+tolobekov\library\model\Transaction.class
+tolobekov\library\ui\LibrarianDashboard.class
+tolobekov\library\App.class
+tolobekov\library\ui\UserDashboard.class
+tolobekov\library\database\SerializationHelper.class
+tolobekov\library\ui\RegistrationForm.class
+tolobekov\library\model\User.class
